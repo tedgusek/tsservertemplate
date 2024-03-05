@@ -1,0 +1,19 @@
+# Environment
+.env
+
+# Node.js
+node_modules
+
+# Build Output
+/build/
+
+# Typescript
+*.js
+*.js.map
+*.tsbuildinfo
+
+# IDE-specific files
+.vscode/
+
+# Logs
+*.log
